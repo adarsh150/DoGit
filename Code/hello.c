@@ -15,3 +15,8 @@ void doBranching(){
 void doBranchingConflict(){
 	printf("Learning Merge conflict....\n");
 }
+
+void print()
+{
+	printf("I am in Branching for conflcit...\n");
+}
