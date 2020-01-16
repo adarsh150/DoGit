@@ -12,3 +12,8 @@ void doSomething(){
 void doBranching(){
 	printf("Learning Branching....\n");
 }
+
+void print()
+{
+	printf("I am in Branching for conflcit...\n");
+}
