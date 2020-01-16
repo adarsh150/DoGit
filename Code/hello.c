@@ -1,4 +1,5 @@
 #include<stdio.h>
+void doBranchingExperiment1();
 int main()
 {
 	int doSomething = 100;
@@ -6,4 +7,7 @@ int main()
 	printf("fhg\n");
 }
 void doSomething(){
+}
+
+void doBranchingExperiment1(){
 }
